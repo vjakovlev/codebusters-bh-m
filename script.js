@@ -56,8 +56,8 @@ $(document).ready(function() {
                     })
                 }, 300);
 
-                $(`#description1`).fadeOut(700);
-                $(`#description1`).html('');
+                $(`#description1`).fadeOut(1500);
+                
 
                 // for (let i = 0; i < 8; i++) {
                 //     $(`#description${i}`).html(``);
@@ -96,8 +96,8 @@ $(document).ready(function() {
                     })
                 }, 300);
 
-                $(`#description0`).fadeOut(700);
-                $(`#description0`).html('');
+                $(`#description0`).fadeOut(1500);
+                
                 
 
                 // for (let i = 0; i < 8; i++) {
